@@ -1,0 +1,7 @@
+# Nota-aluno
+Esse e um projeto que foi desenvolvido com java
+Um sistem que recebe três valores e mediante os
+valores inseridos o programa informa a media 
+que para a aprovação deve ser 6 ou maior
+e com as informações ele informa madia,nota e se o aluno está reprovado 
+ou aprovado.
