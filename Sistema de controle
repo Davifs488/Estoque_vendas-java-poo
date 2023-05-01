@@ -1,0 +1,8 @@
+# Estoque_vendas-Java-Poo
+Esse projeto foi criado em orientação a objetos (java)
+Esse programa tem a finalidade de depois de receber 
+nome de produto, quantidade e preço ele ainda tem
+duas funçoes de regsitra produtos no estoque e de relatar quantidade de vendas
+
+OBS: DANDO O RESULTADO DE QUANTIDADE ATUAL DO PRODUTO NO ESTOQUE
+E VALOR TOTAL DE VENDAS.
