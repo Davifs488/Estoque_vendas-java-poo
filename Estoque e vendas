@@ -1,0 +1,6 @@
+# Estoque_vendas-java-poo
+Esse projeto foi cria do com o sistema orientado a objetos(java)
+Tem por funcção receber dados de quantidade,valores e ainda pode
+receber produto no estoque e de pois de informado se ouve vendas 
+OBS:O PROGRAM INFORMA A QUANTIDADE ATUAL NO ESTOQUE E VALOR TOTAL DE 
+VENDAS(SE TI VER INFORMAÇÃO DE VENDAS)
